@@ -6,9 +6,11 @@ Benvenuto nel repository dei progetti!
 
 ## 🎥 Presentazione Video del Progetto BitLocker
 
-Clicca sull'immagine di copertina sottostante per accedere alla cartella di Google Drive e guardare il video dimostrativo:
+Clicca sull'immagine di copertina sottostante per guardare il video dimostrativo su Google Drive:
 
-[![Presentazione del Progetto BitLocker](bitlocker.png)](https://drive.google.com/drive/u/1/folders/1CatYZPPqEpnop1UbrpHlsNi3Bt8mZ3bn)
+[![Presentazione del Progetto BitLocker](bitlocker.png)](https://drive.google.com/file/d/1uWpyevjzIbnY2X0pbZC7tUG_dm6kP663/view?usp=sharing)
+
+👉 **[Clicca qui per visualizzare la Presentazione PowerPoint (PPTX)](https://docs.google.com/presentation/d/1VJMpOriOmsDbJ96Yq7lvAD0pAWmaF_Nn/edit?usp=sharing&ouid=117395502935347705975&rtpof=true&sd=true)**
 
 ---
 
